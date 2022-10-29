@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    background-color: #ac823d38;
+}
+header{
+    padding: 1px;
+    background-color: #AC823D;
+    color: white;
+    text-align: center;
+}
+header a{
+    text-decoration: underline;
+    color: white;
+}
+section{
+    line-height: 3em;
+    padding-left: 2em;
+    padding-bottom: 3em;
+}
+footer{
+    padding: 1px;
+    background-color: #AC823D;
+    color: white;
+    text-align: center;
+}
+
+#introducao{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-indent: 13px;
+}
+.cachorra{
+    background-color: white;
+    background-image: url(/Desafios/012-projeto-cordel/imagens/cachorra.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: inset 0px 2px 10px black;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+#cachorra{
+    text-shadow: 0px 1px 5px black;
+    background-color: rgba(0, 0, 0, 0.400);
+    color: white;
+    width: 300px;
+    border-radius: 15px;
+    padding-left: 2vh;
+}
+.cavalo{
+    background-color: white;
+    background-image: url(/Desafios/012-projeto-cordel/imagens/cavalo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: inset 0px 2px 10px black;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+#cavalo{
+    text-shadow: 0px 1px 5px black;
+    background-color: rgba(0, 0, 0, 0.400);
+    color: white;
+    width: 300px;
+    border-radius: 15px;
+    padding-left: 2vh;
+}
+.pecado{
+    background-color: white;
+    background-image: url(/Desafios/012-projeto-cordel/imagens/pecado.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: inset 0px 2px 10px black;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+#pecado{
+    text-shadow: 0px 1px 5px black;
+    background-color: rgba(0, 0, 0, 0.400);
+    color: white;
+    width: 300px;
+    border-radius: 15px;
+    padding-left: 2vh;
+}
