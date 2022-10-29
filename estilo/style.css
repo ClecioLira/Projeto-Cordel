@@ -36,7 +36,7 @@ footer{
 }
 .cachorra{
     background-color: white;
-    background-image: url(/Desafios/012-projeto-cordel/imagens/cachorra.jpg);
+    background-image: url(../imagens/cachorra.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -54,7 +54,7 @@ footer{
 }
 .cavalo{
     background-color: white;
-    background-image: url(/Desafios/012-projeto-cordel/imagens/cavalo.jpg);
+    background-image: url(../imagens/cavalo.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -72,7 +72,7 @@ footer{
 }
 .pecado{
     background-color: white;
-    background-image: url(/Desafios/012-projeto-cordel/imagens/pecado.jpg);
+    background-image: url(../imagens/pecado.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
